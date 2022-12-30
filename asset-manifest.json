@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/thedavidfilm/static/css/main.8efa0c54.css",
-    "main.js": "/thedavidfilm/static/js/main.1b7ed685.js",
-    "static/js/787.6bdc00dc.chunk.js": "/thedavidfilm/static/js/787.6bdc00dc.chunk.js",
-    "static/media/2.png": "/thedavidfilm/static/media/2.c9d4b358628e4b4d6a77.png",
-    "static/media/ArchivoBlack-Regular.ttf": "/thedavidfilm/static/media/ArchivoBlack-Regular.756e4893baa794d19b24.ttf",
-    "static/media/DMSans-Regular.ttf": "/thedavidfilm/static/media/DMSans-Regular.5d56aeb9225a4059996e.ttf",
-    "static/media/pattern.png": "/thedavidfilm/static/media/pattern.ca3a037e28163810a8e4.png",
-    "index.html": "/thedavidfilm/index.html",
-    "static/media/TickMark.svg": "/thedavidfilm/static/media/TickMark.2f881f2b951a26b1887c.svg",
-    "main.8efa0c54.css.map": "/thedavidfilm/static/css/main.8efa0c54.css.map",
-    "main.1b7ed685.js.map": "/thedavidfilm/static/js/main.1b7ed685.js.map",
-    "787.6bdc00dc.chunk.js.map": "/thedavidfilm/static/js/787.6bdc00dc.chunk.js.map"
+    "main.css": "/thedavidfilms/static/css/main.d4d2042c.css",
+    "main.js": "/thedavidfilms/static/js/main.2d9e691e.js",
+    "static/js/787.6bdc00dc.chunk.js": "/thedavidfilms/static/js/787.6bdc00dc.chunk.js",
+    "static/media/2.png": "/thedavidfilms/static/media/2.c9d4b358628e4b4d6a77.png",
+    "static/media/ArchivoBlack-Regular.ttf": "/thedavidfilms/static/media/ArchivoBlack-Regular.756e4893baa794d19b24.ttf",
+    "static/media/DMSans-Regular.ttf": "/thedavidfilms/static/media/DMSans-Regular.5d56aeb9225a4059996e.ttf",
+    "static/media/pattern.png": "/thedavidfilms/static/media/pattern.ca3a037e28163810a8e4.png",
+    "index.html": "/thedavidfilms/index.html",
+    "static/media/TickMark.svg": "/thedavidfilms/static/media/TickMark.2f881f2b951a26b1887c.svg",
+    "main.d4d2042c.css.map": "/thedavidfilms/static/css/main.d4d2042c.css.map",
+    "main.2d9e691e.js.map": "/thedavidfilms/static/js/main.2d9e691e.js.map",
+    "787.6bdc00dc.chunk.js.map": "/thedavidfilms/static/js/787.6bdc00dc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8efa0c54.css",
-    "static/js/main.1b7ed685.js"
+    "static/css/main.d4d2042c.css",
+    "static/js/main.2d9e691e.js"
   ]
 }
